@@ -1,0 +1,10 @@
+D:\NET\Projects\Lesson2_1\Lesson2_1\obj\Debug\Lesson2_1.csprojResolveAssemblyReference.cache
+D:\NET\Projects\Lesson2_1\Lesson2_1\obj\Debug\Lesson2_1.Form1.resources
+D:\NET\Projects\Lesson2_1\Lesson2_1\obj\Debug\Lesson2_1.Properties.Resources.resources
+D:\NET\Projects\Lesson2_1\Lesson2_1\obj\Debug\Lesson2_1.csproj.GenerateResource.Cache
+D:\NET\Projects\Lesson2_1\Lesson2_1\obj\Debug\Lesson2_1.csproj.CoreCompileInputs.cache
+D:\NET\Projects\Lesson2_1\Lesson2_1\bin\Debug\Lesson2_1.exe.config
+D:\NET\Projects\Lesson2_1\Lesson2_1\bin\Debug\Lesson2_1.exe
+D:\NET\Projects\Lesson2_1\Lesson2_1\bin\Debug\Lesson2_1.pdb
+D:\NET\Projects\Lesson2_1\Lesson2_1\obj\Debug\Lesson2_1.exe
+D:\NET\Projects\Lesson2_1\Lesson2_1\obj\Debug\Lesson2_1.pdb
